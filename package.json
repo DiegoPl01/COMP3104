@@ -4,7 +4,12 @@
   "description": "- Diego Plata\r - 101354581",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" "
+    "test": "echo \"Error: no test specified\" ",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoPl01/COMP3104.git"
   },
   "keywords": [
     "devops",
